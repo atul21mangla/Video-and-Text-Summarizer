@@ -75,7 +75,7 @@ Robust Performance Metrics: High accuracy and readability of generated summaries
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/video-text-summarizer.git
+git clone https://github.com/atul21mangla/Video-and-Text-Summarizer.git
 ```
 <br>
 
@@ -98,6 +98,14 @@ streamlit run app.py
 ```
 
 <br>
+
+
+
+
+
+
+
+
 
 <h2>🌟 Future Enhancements </h2>
 Advanced Preprocessing: Improved handling of noisy data.<br><br>
