@@ -1,6 +1,6 @@
 # Video-and-Text-Summarizer
 
-![Logo](assets/images/logo.png)
+![Logo](assets/images/logodone.png)
 
 ## 📜 Project Overview
 The Video and Text Summarizer is an AI-powered application designed to streamline content consumption by providing concise summaries of YouTube videos and text files. By leveraging advanced Natural Language Processing (NLP) techniques, the tool generates accurate and meaningful summaries, saving users time and enhancing comprehension. It also incorporates sentiment analysis for a richer user experience.
